@@ -11,5 +11,8 @@ sudo apt install ./google-chrome-stable_current_amd64.deb
 git clone git://github.com/sigurdga/gnome-terminal-colors-solarized.git ~/.solarized
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 echo 'eval `dircolors ~/.dir_colors/dircolors`' >> ~/.zshrc
+apt install kitty
+sudo update-alternatives --config x-terminal-emulator
+
 ```
  
