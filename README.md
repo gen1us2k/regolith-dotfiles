@@ -25,3 +25,4 @@ sudo apt install redshift gtk-redshift
 
 ```
  
+git clone https://github.com/erpalma/throttled.git
