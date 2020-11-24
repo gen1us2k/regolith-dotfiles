@@ -1,0 +1,10 @@
+Xft.dpi: 200
+gnome.terminal.font:	JetBrains Mono 12
+Xcursor.size: 48
+Xcursor.theme: Adwaita
+Xft.autohint: 0
+Xft.lcdfilter:  lcddefault
+Xft.hintstyle:  hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb

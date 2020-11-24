@@ -102,7 +102,7 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 # Terminal emulator with ligatures support. You can skip this step if you don't need ligatures
 ```
-apt install kitty 
+apt install kitty
 sudo update-alternatives --config x-terminal-emulator   # To set kitty as default terminal
 ```
 
@@ -126,7 +126,7 @@ sudo apt install redshift gtk-redshift
 sudo apt install ttf-mscorefonts-installer
 
 ```
- 
+
 # Lenovo throttle fix
 
 ```
@@ -138,6 +138,7 @@ sudo ./throttled/install.sh
 # Copy dotfiles from repo
 
 ```
+xrdb -merge ~/.Xresources
 regolith-look refresh
 reboot
 ```
